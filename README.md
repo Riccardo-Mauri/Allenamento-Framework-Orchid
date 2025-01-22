@@ -6,4 +6,4 @@
   <li>Youssef Abdelmalak</li>
 </ul></h3>
 <h2>Screen del progetto dopo aver soltanto installato Orchid</h2>
-<img src="" alt="Schermata Orchid" width="500" height="600">
+<img src="https://github.com/user-attachments/assets/851d6bd6-f529-4112-a04f-3a76c2e865eb" alt="Schermata Orchid">
