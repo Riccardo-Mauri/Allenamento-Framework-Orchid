@@ -52,6 +52,7 @@ return array(
     'Orchid\\Metrics\\' => array($vendorDir . '/orchid/platform/src/Metrics'),
     'Orchid\\Icons\\' => array($vendorDir . '/orchid/blade-icons/src'),
     'Orchid\\Filters\\' => array($vendorDir . '/orchid/platform/src/Filters'),
+    'Orchid\\Crud\\' => array($vendorDir . '/orchid/crud/src'),
     'Orchid\\Attachment\\' => array($vendorDir . '/orchid/platform/src/Attachment'),
     'Orchid\\Alert\\' => array($vendorDir . '/orchid/platform/src/Alert'),
     'Orchid\\Access\\' => array($vendorDir . '/orchid/platform/src/Access'),

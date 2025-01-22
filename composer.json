@@ -1,5 +1,6 @@
 {
     "require": {
-        "orchid/platform": "^14.44"
+        "orchid/platform": "^14.44",
+        "orchid/crud": "^4.3"
     }
 }

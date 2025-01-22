@@ -98,6 +98,7 @@ class ComposerStaticInit490e0a09b8f48222af37f62c608dcbb1
             'Orchid\\Metrics\\' => 15,
             'Orchid\\Icons\\' => 13,
             'Orchid\\Filters\\' => 15,
+            'Orchid\\Crud\\' => 12,
             'Orchid\\Attachment\\' => 18,
             'Orchid\\Alert\\' => 13,
             'Orchid\\Access\\' => 14,
@@ -339,6 +340,10 @@ class ComposerStaticInit490e0a09b8f48222af37f62c608dcbb1
         'Orchid\\Filters\\' => 
         array (
             0 => __DIR__ . '/..' . '/orchid/platform/src/Filters',
+        ),
+        'Orchid\\Crud\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/orchid/crud/src',
         ),
         'Orchid\\Attachment\\' => 
         array (
